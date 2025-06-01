@@ -1,5 +1,4 @@
 # EX 5C Kadane's Algorithm
-## DATE:
 ## AIM:
 To write a python program to find the maximum contiguous subarray.
 
@@ -15,8 +14,8 @@ To write a python program to find the maximum contiguous subarray.
 ## Program:
 ```
 To implement the program to find the maximum contiguous subarray.
-Developed by: Saravanan PV
-Register Number: 212223230195  
+Developed by: Naveen Kanthan L
+Register Number: 212223230138
 ```
 ```py
 def maxSubArraySum(a,size):
